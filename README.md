@@ -20,3 +20,7 @@ WAŻNE PLIKI:
 * app.component.css - wygląd strony projektu
 * package.json - biblioteki i zależności (lista)
 * node.modules - biblioteki i zależności (miejsce pobrania)
+
+
+NOTATKI:
+* NIE RESTARTOWAĆ APKI PO WPROWADZENIU ZMIAN, SAMA ROBI UPDATE!
