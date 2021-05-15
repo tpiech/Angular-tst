@@ -32,3 +32,7 @@ NOTATKI:
 * deklaracja zmiennych zmienna: typ; (np. name: string;)
 * jeśli przy stworzeniu jest przypisanie, nie trzeba podawać typu (np name = 'dzialaj_projekcie')
 * do głównego pliku html dodajemy komponenty za pomocą selektora <nazwa_selektora></nazwa_selektora> (zdefiniowany w @component{ selector: 'nazwa_selektora'  })
+
+
+STRONA ANGULARA Z TUTORIALAMI I PORADAMI:
+https://angular.io/docs
