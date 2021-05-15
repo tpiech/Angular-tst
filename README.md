@@ -16,7 +16,7 @@ KOMENDY:
 * npm install -g typescript - instaluje TypeScript
 * ng new my-first-project - generowanie projektu
 * ng serve - odpala projekt i serwer na localhost:4200 (musi być w folderze aplikacji)
-* ng g componnent ./ścieżka/folder_z_nazwa_komponentu - generowanie komponentu
+* ng g component ./ścieżka/folder_z_nazwa_komponentu - generowanie komponentu
 
 
 WAŻNE PLIKI:
@@ -31,4 +31,4 @@ NOTATKI:
 * odwołanie do zmiennej z klasy, w pliku html - {{zmienna}}
 * deklaracja zmiennych zmienna: typ; (np. name: string;)
 * jeśli przy stworzeniu jest przypisanie, nie trzeba podawać typu (np name = 'dzialaj_projekcie')
-* do głównego pliku html dodajemy komponenty za pomocą selektora <nazwa_selektora></nazwa_selektora> (zdefiniowany w @componnent{ selector: 'nazwa_selektora'  })
+* do głównego pliku html dodajemy komponenty za pomocą selektora <nazwa_selektora></nazwa_selektora> (zdefiniowany w @component{ selector: 'nazwa_selektora'  })
