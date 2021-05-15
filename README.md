@@ -28,3 +28,4 @@ NOTATKI:
 * odwołanie do zmiennej z klasy, w pliku html - {{zmienna}}
 * deklaracja zmiennych zmienna: typ; (np. name: string;)
 * jeśli przy stworzeniu jest przypisanie, nie trzeba podawać typu (np name = 'dzialaj_projekcie')
+* do głównego pliku html dodajemy komponenty za pomocą selektora <nazwa_selektora></nazwa_selektora>
