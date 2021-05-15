@@ -24,3 +24,4 @@ WAŻNE PLIKI:
 
 NOTATKI:
 * NIE RESTARTOWAĆ APKI PO WPROWADZENIU ZMIAN, SAMA ROBI UPDATE!
+* odwołanie do zmiennej z klasy, w pliku html - {{zmienna}}
