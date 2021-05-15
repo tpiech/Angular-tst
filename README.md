@@ -25,3 +25,5 @@ WAŻNE PLIKI:
 NOTATKI:
 * NIE RESTARTOWAĆ APKI PO WPROWADZENIU ZMIAN, SAMA ROBI UPDATE!
 * odwołanie do zmiennej z klasy, w pliku html - {{zmienna}}
+* deklaracja zmiennych zmienna: typ; (np. name: string;)
+* jeśli przy stworzeniu jest przypisanie, nie trzeba podawać typu (np name = 'dzialaj_projekcie')
