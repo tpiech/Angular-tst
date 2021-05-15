@@ -13,7 +13,7 @@ KOMENDY:
 * npm install -g typescript - instaluje TypeScript
 * ng new my-first-project - generowanie projektu
 * ng serve - odpala projekt i serwer na localhost:4200 (musi być w folderze aplikacji)
-* ng g componnent ./ścieżka - generowanie komponentu
+* ng g componnent ./ścieżka/folder_z_nazwa_komponentu - generowanie komponentu
 
 
 WAŻNE PLIKI:
