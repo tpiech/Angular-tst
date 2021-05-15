@@ -13,3 +13,10 @@ KOMENDY:
 * npm install -g typescript - instaluje TypeScript
 * ng new my-first-project - generowanie projektu
 * ng serve - odpala projekt i serwer na localhost:4200 (musi być w folderze aplikacji) 
+
+
+WAŻNE PLIKI:
+* app.component.html - strona projektu
+* app.component.css - wygląd strony projektu
+* package.json - biblioteki i zależności (lista)
+* node.modules - biblioteki i zależności (miejsce pobrania)
