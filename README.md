@@ -8,6 +8,9 @@ WYMAGANIA:
 * TypeScript (using 4.2.4)
 * Angular CLI
 
+Strona instalacji dla Node.js i npm (jednocześnie instaluje obydwa): https://nodejs.org/en/
+
+
 KOMENDY:
 * npm install -g @angular/cli - instaluje Angulara
 * npm install -g typescript - instaluje TypeScript
