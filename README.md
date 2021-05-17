@@ -7,6 +7,7 @@ INSTRUKCJA:
 W folderze SERVER JS:
 * jeśli odpalamy pierwszy raz, wpisujemy w konsoli npm install w celu pobrania paczek
 * wpisujemy w konsoli node server.js
+
 W folderze AngularApp:
 * wpisujemy w konsoli ng serve --proxy-config proxy.conf.json
 
