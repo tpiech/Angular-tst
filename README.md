@@ -8,6 +8,8 @@ W folderze SERVER JS:
 * wpisujemy w konsoli node server.js
 W folderze AngularApp:
 * wpisujemy w konsoli ng serve --proxy-config proxy.conf.json
+
+
 WYMAGANIA: 
 
 * Node.js v12 or higher (using 14.17.0)
