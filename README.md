@@ -1,6 +1,13 @@
 # Angular-tst
 Testing Angular framework for presentation 
+LINK DO POBRANIA PROJEKTU (z uwagi na rozmiar):
+https://drive.google.com/file/d/1cyreenfJ3-2FcFNbiXgL23WHX8SvmOr8/view?usp=sharing
 
+INSTRUKCJA:
+W folderze SERVER JS:
+* wpisujemy w konsoli node server.js
+W folderze AngularApp:
+* wpisujemy w konsoli ng serve --proxy-config proxy.conf.json
 WYMAGANIA: 
 
 * Node.js v12 or higher (using 14.17.0)
